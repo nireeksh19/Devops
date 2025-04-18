@@ -1,0 +1,12 @@
+Print list of s3 buckets
+2025-04-04 05:32:45 test-b-n-19
+2025-04-04 05:14:10 test-bucket-demo-n-19
+Print list of ec2 instance IDs
+"i-0b60c8c5d2194b5e2"
+Print list of lambda functions
+{
+    "Functions": []
+}
+Print list of IAM users IDs
+"AIDASLRTEQHN3NZ6EGJFV"
+"AIDASLRTEQHNY6BOC6OUN"
